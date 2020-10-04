@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "css": "^3.0.0",
+    "euclidean-distance": "^1.0.0",
+    "three": "^0.121.1",
+    "util": "^0.12.3"
+  }
+}
